@@ -1,10 +1,6 @@
-# Rafael Fachinelli :man_technologist:
+# Rafael Fachinelli
 
-----
 ### Hello! 👋 Welcome to my profile
-
--  Currently learning ReactJS, React Native and NodeJS
-- 😄 In my free time I usually play games, read books and study magic
 
 ----
 ### 📌 Skills
@@ -14,7 +10,7 @@
 ![Bootstrap badge](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![Javascript badge](https://img.shields.io/badge/-Javascript-F29400?style=flat-square&logo=javascript&logoColor=white)
 
----
+----
 ### 📚 Learning
 
 ![React badge](https://img.shields.io/badge/-ReactJS-13B5EA?style=flat-square&logo=react&logoColor=white)
@@ -22,8 +18,16 @@
 ![Node.js badge](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ----
-### Contats
+### 💙 Hoobies
+
+📖 Books
+🎮 Games
+🔮 Magic
+
+----
+### 📓 Social
 
 [![Linkedin Badge](https://img.shields.io/badge/-rafaelfachinelli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelfachinelli/)](https://www.linkedin.com/in/rafaelfachinelli/)
 [![Github Badge](https://img.shields.io/badge/-rafaelfachinelli-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rafaelfachinelli)](https://github.com/rafaelfachinelli)
+[![Itch.io Badge](https://img.shields.io/badge/-rafaelfachinelli-FA5C5C?style=flat-square&logo=itch.io&logoColor=white&link=https://rafael-fachinelli.itch.io/)](https://rafael-fachinelli.itch.io/)
 [![Outlook Badge](https://img.shields.io/badge/-outlook-0078d4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:rafael.fachinelli@fatec.sp.gov.br)](mailto:rafael.fachinelli@fatec.sp.gov.br)
