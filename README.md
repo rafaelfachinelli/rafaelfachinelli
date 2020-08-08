@@ -32,4 +32,3 @@
 [![Github Badge](https://img.shields.io/badge/-rafaelfachinelli-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rafaelfachinelli)](https://github.com/rafaelfachinelli)
 [![Itch.io Badge](https://img.shields.io/badge/-rafaelfachinelli-FA5C5C?style=flat-square&logo=itch.io&logoColor=white&link=https://rafael-fachinelli.itch.io/)](https://rafael-fachinelli.itch.io/)
 [![Outlook Badge](https://img.shields.io/badge/-outlook-0078d4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:rafael.fachinelli@fatec.sp.gov.br)](mailto:rafael.fachinelli@fatec.sp.gov.br)
-[![Whatsapp Badge](https://img.shields.io/badge/-whatsapp-25D366?style=flat-square&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?l=pt_BR&phone=5511981050194)](https://api.whatsapp.com/send?l=pt_BR&phone=5511981050194)
