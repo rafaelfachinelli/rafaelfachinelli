@@ -1,9 +1,11 @@
 # Rafael Fachinelli
 
-### Hello! 👋 Welcome to my profile
+## 👋 Hello! Welcome to my profile
+## 👋 Oii! Bem-vindo ao meu perfil
 
 ----
-### 📌 Skills
+
+## 📌 Skills / Habilidades
 
 ![Adobe XD badge](https://img.shields.io/badge/-Adobe_XD-FF26BE?style=flat-square&logo=adobe-xd&logoColor=white)
 ![HTML5 badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
@@ -12,21 +14,24 @@
 ![Javascript badge](https://img.shields.io/badge/-Javascript-F29400?style=flat-square&logo=javascript&logoColor=white)
 
 ----
-### 📚 Learning
+
+## 📚 Learning / Aprendendo
 
 [![Node.js badge](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white&link=https://nodejs.org/en/)](https://nodejs.org/en/)
 [![React badge](https://img.shields.io/badge/-ReactJS-13B5EA?style=flat-square&logo=react&logoColor=white&link=https://reactjs.org)](https://reactjs.org)
 [![ReactNative badge](https://img.shields.io/badge/-React_Native-563D7C?style=flat-square&logo=react&logoColor=white&link=https://reactnative.dev)](https://reactnative.dev)
 
 ----
-### 💙 Hoobies
+
+## 💙 Hoobies / Passatempos
 
 📖 Books
 🎮 Games
 🔮 Magic
 
 ----
-### 📓 Social
+
+## 📓 Social / Contatos
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rafael_Fachinelli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelfachinelli/)](https://www.linkedin.com/in/rafaelfachinelli/)
 [![Github Badge](https://img.shields.io/badge/-rafaelfachinelli-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rafaelfachinelli)](https://github.com/rafaelfachinelli)
