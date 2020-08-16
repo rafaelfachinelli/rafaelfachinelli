@@ -1,5 +1,11 @@
 # Rafael Fachinelli
 
+<div align="center">
+
+<img alt="readme" src="https://img.shields.io/badge/Readme-PT--BR-success?style=for-the-badge?link=./README.md"/> <img alt="readme" src="https://img.shields.io/badge/Readme-EN--US-blue?style=for-the-badge"/>
+
+</div>
+
 ## 👋 Oii! Bem-vindo ao meu perfil
 
 Tenho 25 anos e sou estudante de Análise e Desenvolvimento de Sistemas na FATEC em São Paulo e estou focado nos estudos das linguagens para desenvolvimento web mais atuais, com o objetivo de me tornar sênior full-stack.
