@@ -15,6 +15,12 @@ Possuo experiência no mercado industrial como operador de máquinas sendo respo
 
 Também atuei com automação, já tendo desenvolvido um produto patentiado e automatizado um processo da confecção de máquinas de costura industriais acionando cortes para separação de peças em 0.7 milésimos de segundos com programação embarcada em C e C++, aumentando a produção e evitando desperdíco de materiais.
 
+I'm 25 years old and I'm a student of Systems Analysis and Development at FATEC in São Paulo - Brazil. I'm focused on web development, with the aim of becoming a full-stack senior.
+
+I have experience in the industrial market as a machine operator, being responsible for programming the cutting of parts at the beginning of the production line of almost 100 people.
+
+I also worked with automation, having already developed a patented and automated product, a process for making industrial sewing machines, triggering cuts to separate parts in 0.7 milliseconds with embedded programming in C and C ++, boosting production and avoiding waste of materials.
+
 ----
 
 ## 📌 Skills
