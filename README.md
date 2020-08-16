@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img alt="readme" src="https://img.shields.io/badge/Readme-PT--BR-success?style=for-the-badge?&link=./README.md"> <img alt="readme" src="https://img.shields.io/badge/Readme-EN--US-blue?style=for-the-badge"/>
+<img alt="readme" src="https://img.shields.io/badge/Readme-PT--BR-success?style=for-the-badge"> <img alt="readme" src="https://img.shields.io/badge/Readme-EN--US-blue?style=for-the-badge"/>
 
 </div>
 
