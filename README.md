@@ -6,7 +6,7 @@ Tenho 25 anos e sou estudante de Análise e Desenvolvimento de Sistemas na FATEC
 
 Possuo experiência no mercado industrial como operador de máquinas sendo responsável pela programação do corte de peças no início da linha de produção de quase 100 pessoas. 
 
-Também atuei com automação, já tendo desenvolvido um produto patentiado e automatizado um processo da confecção de máquinas de costura industriais acionando cortes para separação de peças em 0.7 milésimos de segundos com programação em C e C++, aumentando a produção e evitando desperdíco de materiais.
+Também atuei com automação, já tendo desenvolvido um produto patentiado e automatizado um processo da confecção de máquinas de costura industriais acionando cortes para separação de peças em 0.7 milésimos de segundos com programação embarcada em C e C++, aumentando a produção e evitando desperdíco de materiais.
 
 ----
 
