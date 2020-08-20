@@ -9,11 +9,11 @@
 
 ## 👋 Oii! Bem-vindo ao meu perfil
 
-Tenho 25 anos e sou estudante de Análise e Desenvolvimento de Sistemas na FATEC em São Paulo e estou focado nos estudos das linguagens para desenvolvimento web mais atuais, com o objetivo de me tornar sênior full-stack.
+Tenho 25 anos e sou estudante de Análise e Desenvolvimento de Sistemas na FATEC Ferraz de Vasconcelos no estado de São Paulo, estou focado nos estudos das linguagens para desenvolvimento web mais atuais com o objetivo de me tornar sênior full-stack.
 
 Possuo experiência no mercado industrial como operador de máquinas sendo responsável pela programação do corte de peças no início da linha de produção de quase 100 pessoas. 
 
-Também atuei com automação, já tendo desenvolvido um produto patentiado e automatizado um processo da confecção de máquinas de costura industriais acionando cortes para separação de peças em 0.7 milésimos de segundos com programação embarcada em C e C++, aumentando a produção e evitando desperdíco de materiais.
+Também atuei com automação, já tendo desenvolvido um produto patentiado, automatizando um processo da confecção de máquinas de costura industriais acionando cortes para separação de peças em 0.7 milésimos de segundos com programação embarcada em C e C++, aumentando a produção e evitando desperdíco de materiais.
 
 ----
 
