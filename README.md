@@ -7,7 +7,7 @@
 
 </div>
 
-## 👋 Oii! Bem-vindo ao meu perfil
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Oi! Bem-vindo ao meu perfil
 
 Tenho 25 anos e sou estudante de Análise e Desenvolvimento de Sistemas na FATEC Ferraz de Vasconcelos no estado de São Paulo, estou focado nos estudos das linguagens para desenvolvimento web mais atuais com o objetivo de me tornar sênior full-stack.
 
