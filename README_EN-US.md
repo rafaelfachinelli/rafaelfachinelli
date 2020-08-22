@@ -7,7 +7,7 @@
 
 </div>
 
-## 👋 Hi! Welcome to my profile
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi! Welcome to my profile
 
 I'm 25 years old and I'm a student of Systems Analysis and Development at FATEC in São Paulo - Brazil. I'm focused on web development, with the aim of becoming a full-stack senior.
 
