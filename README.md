@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Readme Portuguese](https://img.shields.io/badge/Readme-PT--BR-success?style=for-the-badge)](https://github.com/rafaelfachinelli/rafaelfachinelli/blob/master/README.md)
+![Readme Portuguese](https://img.shields.io/badge/Readme-PT--BR-success?style=for-the-badge&link=https://github.com/rafaelfachinelli/rafaelfachinelli/blob/master/README.md)
 [![Readme English](https://img.shields.io/badge/Readme-EN--US-blue?style=for-the-badge)](https://github.com/rafaelfachinelli/rafaelfachinelli/blob/master/README_EN-US.md)
 
 </div>
