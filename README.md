@@ -1,6 +1,4 @@
-<div align="left">
-<b style="font-size: 24px"> Rafael Fachinelli </b>
-</div>
+
 
 <div align="right">
   
@@ -9,7 +7,7 @@
   
 </div>
 
----
+# Rafael Fachinelli
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Oi! Bem-vindo ao meu perfil
 
