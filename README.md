@@ -5,6 +5,8 @@
   
 </div>
 
+---
+
 # Rafael Fachinelli
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Oi! Bem-vindo ao meu perfil
@@ -24,7 +26,7 @@ Também atuei com automação, já tendo desenvolvido um produto patentiado, aut
 
 </details>
 
-----
+---
 
 ## 📌 Habilidades
   
@@ -35,7 +37,7 @@ Também atuei com automação, já tendo desenvolvido um produto patentiado, aut
 ![Adobe XD badge](https://img.shields.io/badge/-Adobe_XD-FF26BE?style=flat-square&logo=adobe-xd&logoColor=white)
 ![Figma badge](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-----
+---
 
 ## 📚 Aprendendo
 
@@ -44,7 +46,7 @@ Também atuei com automação, já tendo desenvolvido um produto patentiado, aut
 [![ReactNative badge](https://img.shields.io/badge/-React_Native-563D7C?style=flat-square&logo=react&logoColor=white&link=https://reactnative.dev)](https://reactnative.dev)
 [![TypeScript badge](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&link=https://reactnative.dev)](https://reactnative.dev)
 
-----
+---
 <div align="center">
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rafael_Fachinelli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelfachinelli/)](https://www.linkedin.com/in/rafaelfachinelli/)
