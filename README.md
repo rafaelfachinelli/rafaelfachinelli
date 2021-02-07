@@ -1,11 +1,11 @@
-# Rafael Fachinelli
-
 <div align="right">
   
   [![English](https://www.countryflags.io/us/flat/32.png)](README_EN-US.md)
   [![Portuguese](https://www.countryflags.io/br/flat/32.png)](README.md)
   
 </div>
+
+# Rafael Fachinelli
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Oi! Bem-vindo ao meu perfil
 
@@ -26,8 +26,7 @@ Também atuei com automação, já tendo desenvolvido um produto patentiado, aut
 
 ----
 
-<details>
-<summary><b>📌 Habilidades</b></summary>
+## 📌 Habilidades
   
 ![HTML5 badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3 badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
@@ -35,7 +34,6 @@ Também atuei com automação, já tendo desenvolvido um produto patentiado, aut
 ![Bootstrap badge](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![Adobe XD badge](https://img.shields.io/badge/-Adobe_XD-FF26BE?style=flat-square&logo=adobe-xd&logoColor=white)
 ![Figma badge](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-</details>
 
 ----
 
