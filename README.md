@@ -33,7 +33,7 @@ Também atuei com automação, já tendo desenvolvido um produto patentiado, aut
 ![Adobe XD badge](https://img.shields.io/badge/-Adobe_XD-FF26BE?style=flat-square&logo=adobe-xd&logoColor=white)
 ![Figma badge](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-## 📚 Aprendendo
+## 📚 Estudando
 
 [![Node.js badge](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white&link=https://nodejs.org/en/)](https://nodejs.org/en/)
 [![React badge](https://img.shields.io/badge/-ReactJS-13B5EA?style=flat-square&logo=react&logoColor=white&link=https://reactjs.org)](https://reactjs.org)
