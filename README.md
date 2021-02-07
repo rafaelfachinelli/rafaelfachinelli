@@ -1,3 +1,5 @@
+# Rafael Fachinelli
+
 <div align="right">
   
   [![English](https://www.countryflags.io/us/flat/32.png)](README_EN-US.md)
@@ -6,8 +8,6 @@
 </div>
 
 ---
-
-# Rafael Fachinelli
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Oi! Bem-vindo ao meu perfil
 
