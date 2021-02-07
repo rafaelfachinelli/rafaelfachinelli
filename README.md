@@ -48,14 +48,6 @@ Também atuei com automação, já tendo desenvolvido um produto patentiado, aut
 
 ----
 
-## 💙 Passatempos
-
-📖 Livros
-🎮 Jogos
-🔮 Mágica
-
-----
-
 ## 📓 Contatos
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rafael_Fachinelli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelfachinelli/)](https://www.linkedin.com/in/rafaelfachinelli/)
