@@ -1,6 +1,6 @@
 
 
-<div align="right" background="#000000">
+<div align="right">
   
   [![English](https://www.countryflags.io/us/flat/32.png)](README_EN-US.md)
   [![Portuguese](https://www.countryflags.io/br/flat/32.png)](README.md)
