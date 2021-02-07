@@ -1,4 +1,6 @@
+<div align="left">
 <b style="font-size: 24px"> Rafael Fachinelli </b>
+</div>
 
 <div align="right">
   
