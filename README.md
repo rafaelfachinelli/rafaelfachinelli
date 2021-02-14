@@ -1,5 +1,3 @@
-
-
 <div align="right">
   
   [![English](https://www.countryflags.io/us/flat/32.png)](README_EN-US.md)
