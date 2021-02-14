@@ -1,10 +1,8 @@
-# Rafael Fachinelli
-
-<div align="center">
-
-[![Readme Portuguese](https://img.shields.io/badge/Readme-PT--BR-success?style=for-the-badge)](https://github.com/rafaelfachinelli/rafaelfachinelli/blob/master/README.md)
-[![Readme English](https://img.shields.io/badge/Readme-EN--US-blue?style=for-the-badge)](https://github.com/rafaelfachinelli/rafaelfachinelli/blob/master/README_EN-US.md)
-
+<div align="right">
+  
+  [![English](https://www.countryflags.io/us/flat/32.png)](README_EN-US.md)
+  [![Portuguese](https://www.countryflags.io/br/flat/32.png)](README.md)
+  
 </div>
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi! Welcome to my profile
@@ -42,17 +40,11 @@ I also worked with automation, having already developed a patented and automated
 
 ----
 
-## 💙 Hobbies
-
-📖 Books
-🎮 Games
-🔮 Magic
-
-----
-
-## 📓 Social
+<div align="center">
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rafael_Fachinelli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelfachinelli/)](https://www.linkedin.com/in/rafaelfachinelli/)
 [![Github Badge](https://img.shields.io/badge/-rafaelfachinelli-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rafaelfachinelli)](https://github.com/rafaelfachinelli)
 [![Itch.io Badge](https://img.shields.io/badge/-rafaelfachinelli-FA5C5C?style=flat-square&logo=itch.io&logoColor=white&link=https://rafael-fachinelli.itch.io/)](https://rafael-fachinelli.itch.io/)
 [![Outlook Badge](https://img.shields.io/badge/-rafael.fachinelli@fatec.sp.gov.br-0078d4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:rafael.fachinelli@fatec.sp.gov.br)](mailto:rafael.fachinelli@fatec.sp.gov.br)
+
+</div>
