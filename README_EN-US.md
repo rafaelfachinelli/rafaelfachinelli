@@ -12,7 +12,7 @@
 I'm 25 years old and I'm a student of Systems Analysis and Development at FATEC in São Paulo - Brazil. I'm focused on web development, with the aim of becoming a full-stack senior.
 
 <details>
-<subject>More about me</subject>
+<summary>More about me</summary>
 
 I have experience in the industrial market as a machine operator, being responsible for programming the cutting of parts at the beginning of the production line of almost 100 people.
 
