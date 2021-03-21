@@ -33,11 +33,11 @@ Também atuei com automação, já tendo desenvolvido um produto patentiado, aut
 
 ## 📚 Estudando
 
-[![Java badge](https://img.shields.io/badge/-JAVA-339933?style=flat-square&logo=java&logoColor=white&link=https://nodejs.org/en/)](https://nodejs.org/en/)
-[![Node.js badge](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white&link=https://nodejs.org/en/)](https://nodejs.org/en/)
 [![React badge](https://img.shields.io/badge/-ReactJS-13B5EA?style=flat-square&logo=react&logoColor=white&link=https://reactjs.org)](https://reactjs.org)
 [![ReactNative badge](https://img.shields.io/badge/-React_Native-563D7C?style=flat-square&logo=react&logoColor=white&link=https://reactnative.dev)](https://reactnative.dev)
 [![TypeScript badge](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&link=https://reactnative.dev)](https://reactnative.dev)
+[![Node.js badge](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white&link=https://nodejs.org/en/)](https://nodejs.org/en/)
+[![Java badge](https://img.shields.io/badge/-JAVA-007396?style=flat-square&logo=java&logoColor=white&link=https://www.java.com)](https://www.java.com)
 
 ---
 <div align="center">
