@@ -28,8 +28,6 @@ Também atuei com automação, já tendo desenvolvido um produto patentiado, aut
 ![CSS3 badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![JavaScript badge](https://img.shields.io/badge/-JavaScript-F29400?style=flat-square&logo=javascript&logoColor=white)
 [![React badge](https://img.shields.io/badge/-ReactJS-13B5EA?style=flat-square&logo=react&logoColor=white&link=https://reactjs.org)](https://reactjs.org)
-![Bootstrap badge](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![Figma badge](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ## 📚 Estudando
 
