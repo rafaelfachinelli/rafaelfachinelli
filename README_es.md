@@ -6,19 +6,19 @@
   
 </div>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Oi! Bem-vindo ao meu perfil
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> ¡Hola! Bienvenido a mi perfil 
 
 <p>
-Tenho 25 anos, trabalho como Desevolvedor Júnior na Develcode e sou estudante de Análise e Desenvolvimento de Sistemas na FATEC Ferraz de Vasconcelos no estado de São Paulo, estou focado nos estudos das linguagens para desenvolvimento web mais atuais com o objetivo de me tornar sênior full-stack.
+Tengo 25 años, trabajo como Junior Developer en Develcode y soy estudiante de Análisis y Desarrollo de Sistemas en FATEC Ferraz de Vasconcelos en el estado de São Paulo - Brasil, estoy enfocado en estudiar los idiomas más actuales para desarrollo web para convertirse en senior full-stack.
 </p>
 
 <details>
 <p>
-Possuo experiência no mercado industrial como operador de máquinas sendo responsável pela programação do corte de peças no início da linha de produção de quase 100 pessoas.
+Tengo experiencia en el mercado industrial como operario de maquinaria, siendo responsable de programar el corte de piezas al inicio de la línea de producción de casi 100 personas.
 </p>
 
 <p>
-Também atuei com automação, já tendo desenvolvido um produto patentiado, automatizando um processo da confecção de máquinas de costura industriais acionando cortes para separação de peças em 0.7 milésimos de segundos com programação embarcada em C e C++, aumentando a produção e evitando desperdíco de materiais.
+También trabajé con automatización, habiendo desarrollado ya un producto patentado, automatizando un proceso de fabricación de máquinas de coser industriales, desencadenando cortes para separar piezas en 0,7 milisegundos con programación embebida en C y C ++, aumentando la producción y evitando desperdicio de materiales.
 </p>
 
 </details>
@@ -30,7 +30,7 @@ Também atuei com automação, já tendo desenvolvido um produto patentiado, aut
 ![JavaScript badge](https://img.shields.io/badge/-JavaScript-F29400?style=flat-square&logo=javascript&logoColor=white)
 [![React badge](https://img.shields.io/badge/-ReactJS-13B5EA?style=flat-square&logo=react&logoColor=white&link=https://reactjs.org)](https://reactjs.org)
 
-## 📚 Estudando
+## 📚 Estudiando
 
 [![ReactNative badge](https://img.shields.io/badge/-React_Native-563D7C?style=flat-square&logo=react&logoColor=white&link=https://reactnative.dev)](https://reactnative.dev)
 [![TypeScript badge](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&link=https://reactnative.dev)](https://reactnative.dev)
