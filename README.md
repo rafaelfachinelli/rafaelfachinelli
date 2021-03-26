@@ -39,5 +39,7 @@ I also worked with automation, having already developed a patented and automated
 ---
 
 <div align="center">
+  
 [![Author](.github/author.svg)](https://www.linkedin.com/in/rafaelfachinelli/)
+
 </div>
