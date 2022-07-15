@@ -1,11 +1,3 @@
-<div align="right">
-  
-  [![English](https://www.countryflags.io/us/flat/32.png)](README.md)
-  [![Portuguese](https://www.countryflags.io/br/flat/32.png)](README_pt-BR.md)
-  [![Spanish](https://www.countryflags.io/es/flat/32.png)](README_es.md)
-  
-</div>
-
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi! Welcome to my profile
 
 I'm 26 years old, I work as a Junior Developer at Develcode and I'm a student of Systems Analysis and Development at FATEC Ferraz de Vasconcelos in the state of São Paulo - Brazil, I'm focused on studying the most current languages for web development in order to become a full stack developer.
