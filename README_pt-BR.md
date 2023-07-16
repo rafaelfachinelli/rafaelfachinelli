@@ -9,7 +9,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Oi! Bem-vindo ao meu perfil
 
 <p>
-Tenho 28 anos, trabalho como Desevolvedor Pleno na Develcode tendo como principal cliente a Leroy Merlin. Estou focado nos estudos das linguagens para desenvolvimento web mais atuais com o objetivo de me tornar sênior full-stack.
+Tenho 28 anos, trabalho como Desevolvedor Pleno na Develcode tendo como principal cliente a Leroy Merlin. Estou focado nos estudos das linguagens para desenvolvimento web mais atuais com o objetivo de me tornar full-stack com especialidade no front-end.
 </p>
 
 <details>
