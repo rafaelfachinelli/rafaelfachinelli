@@ -9,7 +9,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> ¡Hola! Bienvenido a mi perfil 
 
 <p>
-Tengo 28 años, trabajo como Junior Developer en Develcode y soy estudiante de Análisis y Desarrollo de Sistemas en FATEC Ferraz de Vasconcelos en el estado de São Paulo - Brasil, estoy enfocado en estudiar los idiomas más actuales para desarrollo web para convertirse en senior full-stack.
+Tengo 28 años, trabajo como Full Developer en Develcode con Leroy Merlin como mi principal cliente. Estoy enfocado en estudiar los lenguajes más actuales para el desarrollo web con el objetivo de convertirme en un full-stack con especialidad en el front-end.
 </p>
 
 <details>
