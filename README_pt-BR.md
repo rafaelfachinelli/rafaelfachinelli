@@ -45,11 +45,3 @@ Também atuei com automação, já tendo desenvolvido um produto patentiado, aut
 [![NextJS badge](https://img.shields.io/badge/-NextJS-333333?style=for-the-badge&logo=next.js&logoColor=white)]([https://nodejs.org/en/](https://nextjs.org/))
 [![ReactNative badge](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev)
 [![Node.js badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
-
----
-
-<div align="center">
-  
-[![Author](.github/author.svg)](https://www.linkedin.com/in/rafaelfachinelli/)
-
-</div>
