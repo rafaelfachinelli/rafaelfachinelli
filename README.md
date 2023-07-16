@@ -1,6 +1,6 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi! Welcome to my profile
 
-I'm 28 years old, I work as a Frontend Developer at Develcode and I'm a student of Systems Analysis and Development at FATEC Ferraz de Vasconcelos in the state of São Paulo - Brazil, I'm focused on studying the most current languages for web development in order to become a full stack developer.
+I'm 28 years old, I work as a Full Developer at Develcode with Leroy Merlin as my main client. I'm focused on studying the most current languages for web development with the aim of becoming a full-stack with a specialty in the front-end.
 
 <details>
 <summary>More about me</summary>
